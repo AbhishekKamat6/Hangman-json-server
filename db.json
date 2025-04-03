@@ -1,0 +1,133 @@
+{
+    "words":[
+        {
+            "wordValue":"apple",
+            "wordHint":"fruit"
+        },
+
+        {
+            "wordValue":"banana",
+            "wordHint":"fruit"
+        }
+         ,
+        {
+            "wordValue":"carrot",
+            "wordHint":"vegetable"
+        },
+
+        {
+            "wordValue":"dog",
+            "wordHint":"animal"
+        },
+
+        {
+            "wordValue":"elephant",
+            "wordHint":"animal"
+        },
+
+        {
+            "wordValue":"fish",
+            "wordHint":"animal"
+        }
+        ,
+        {
+            "wordValue":"grape",
+            "wordHint":"fruit"
+        },
+
+        {
+            "wordValue":"house",
+            "wordHint":"building"
+        },
+
+        {
+            "wordValue":"igloo",
+            "wordHint":"building"
+        },
+
+        {
+            "wordValue":"jacket",
+            "wordHint":"clothing"
+        },
+
+        {
+            "wordValue":"kite",
+            "wordHint":"toy"
+        },
+
+        {
+            "wordValue":"lemon",
+            "wordHint":"fruit"
+        },
+
+        {
+            "wordValue":"mango",
+            "wordHint":"fruit"
+        },
+
+        {
+            "wordValue":"notebook",
+            "wordHint":"stationery"
+        },
+
+        {
+            "wordValue":"orange",
+            "wordHint":"fruit"
+        },
+
+        {
+            "wordValue":"pencil",
+            "wordHint":"stationery"
+        },
+
+        {
+            "wordValue":"quilt",
+            "wordHint":"bedding"
+        },
+
+        {
+            "wordValue":"rose",
+            "wordHint":"flower"
+        },
+
+        {
+            "wordValue":"sunflower",
+            "wordHint":"flower"
+        },
+
+        {
+            "wordValue":"tiger",
+            "wordHint":"animal"
+        },
+
+        {
+            "wordValue":"umbrella",
+            "wordHint":"accessory"
+        },
+
+        {
+            "wordValue":"violin",
+            "wordHint":"musical instrument"
+        },
+
+        {
+            "wordValue":"watermelon",
+            "wordHint":"fruit"
+        },
+
+        {
+            "wordValue":"xylophone",
+            "wordHint":"musical instrument"
+        },
+
+        {
+            "wordValue":"yacht",
+            "wordHint":"vehicle"
+        },
+
+        {
+            "wordValue":"zebra",
+            "wordHint":"animal"
+        }
+    ]
+}
